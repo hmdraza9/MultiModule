@@ -1,0 +1,2 @@
+# MultiModule
+Maven MultiModule project
